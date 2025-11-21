@@ -2,7 +2,7 @@
 A Java-based puzzle game built on a quad-tree board structure, where each cell can be subdivided, rotated, reflected, or regenerated. Players manipulate a color-based grid to maximize their score based on different objectives. Includes recursive data structures, grid rendering, and complete gameplay logic.
 
 # Demo
-[Click here to view live demo](https://drive.google.com/file/d/1qqquul5AV_GJvimnUm2jWrDWdjQtaFs3/view?usp=drive_link)
+[Click here to view live demo](https://drive.google.com/file/d/1wj-TtPTPPx510-8mGgOUnJI1GqP3Hvya/view?usp=drive_link)
 
 # How to Play
 **Objective**
