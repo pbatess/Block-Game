@@ -16,7 +16,7 @@ Players alternate turns trying to improve their score, or sabotaging the other p
 
 **Players**
 
-- Can play 1 player or 2 player. 
+- Includes a single and two player mode.
 - Players take turns in 2 player mode and each receive a different random goal type and target color.
 
 **Actions**
