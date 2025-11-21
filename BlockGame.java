@@ -251,7 +251,7 @@ public class BlockGame extends JPanel implements Runnable, MouseListener, MouseM
 		blocks = board.getBlocksToDraw();
 		updateScores();
 
-		if (turnsLeft == 0) { // == 0 is better than <= 0 because it lets them play on after the game "ends" if they want
+		if (turnsLeft == 0) { // lets them play on after the game "ends" if they want
 			if (playerCount == 1) {
 				JOptionPane.showMessageDialog(null, "Your final score is " + p1Score);
 			} else {
